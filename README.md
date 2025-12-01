@@ -36,22 +36,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-1202&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-1202&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-1202&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">

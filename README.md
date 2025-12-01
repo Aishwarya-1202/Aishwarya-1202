@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Chenna Aishwarya</h1>
+<h3 align="center">Web Developer | Building responsive and user-focused web applications</h3>
 
-<!--
-**Aishwarya-1202/Aishwarya-1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  📊 Constructing a real-time analytics dashboard using React & MongoDB
+</p>
 
-Here are some ideas to get you started:
+<!-- Hero GIF or project demo -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Hero GIF" width="600" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="30" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="30" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="30" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="30" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="30" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="30" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="30" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="30" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 1. Real-Time Analytics Dashboard
+📊 A full-stack dashboard application built with React & MongoDB, featuring real-time data visualization and analytics.  
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dashboard Demo" width="500"/>
+</p>
+
+### 2. Responsive Weather App
+🌤️ A responsive weather application built with React and Tailwind CSS, fetching live weather data and displaying it with a clean UI.  
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Weather App Demo" width="500"/>
+</p>
+
+### 3. Task Manager Web App
+✅ A task management app built with React, Node.js & MongoDB, featuring CRUD functionality and user-friendly interface.  
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Task Manager Demo" width="500"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-1202&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-1202&layout=compact&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwarya-1202&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/chenna-aishwarya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:chenna.aishwarya2602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>

@@ -5,11 +5,6 @@
   📊 Constructing a real-time analytics dashboard using React & MongoDB
 </p>
 
-<!-- Hero GIF or project demo -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Hero GIF" width="600" />
-</p>
-
 ---
 
 ## 🛠️ Skills
@@ -31,22 +26,13 @@
 ## 🚀 Projects
 
 ### 1. Real-Time Analytics Dashboard
-📊 A full-stack dashboard application built with React & MongoDB, featuring real-time data visualization and analytics.  
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dashboard Demo" width="500"/>
-</p>
+📊 A full-stack dashboard application built with React & MongoDB, featuring real-time data visualization and analytics.
 
 ### 2. Responsive Weather App
-🌤️ A responsive weather application built with React and Tailwind CSS, fetching live weather data and displaying it with a clean UI.  
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" alt="Weather App Demo" width="500"/>
-</p>
+🌤️ A responsive weather application built with React and Tailwind CSS, fetching live weather data and displaying it with a clean UI.
 
 ### 3. Task Manager Web App
-✅ A task management app built with React, Node.js & MongoDB, featuring CRUD functionality and user-friendly interface.  
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Task Manager Demo" width="500"/>
-</p>
+✅ A task management app built with React, Node.js & MongoDB, featuring CRUD functionality and user-friendly interface.
 
 ---
 

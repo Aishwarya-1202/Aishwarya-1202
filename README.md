@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chenna Aishwarya</h1>
 <h3 align="center">Web Developer | Building responsive and user-focused web applications</h3>
 
-<p align="center">
-  📊 Constructing a real-time analytics dashboard using React & MongoDB
-</p>
-
 ---
 
 ## 🛠️ Skills
